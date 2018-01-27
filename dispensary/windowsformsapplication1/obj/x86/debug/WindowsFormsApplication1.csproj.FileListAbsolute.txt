@@ -1,0 +1,199 @@
+D:\Dispensary\Dispensary\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Dispensary\Dispensary\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Dispensary\Dispensary\WindowsFormsApplication1\bin\Debug\Dispensary.dll
+D:\Dispensary\Dispensary\WindowsFormsApplication1\bin\Debug\Dispensary.pdb
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.date_today.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.patientHistory.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.time.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Registration.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.usertab.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Gridview.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.newPatient.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.updatePatientDetails.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.cancelToken.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.duplicateToken.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.patientSlip.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.changePassword.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\bin\Debug\Dispensary.dll
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\bin\Debug\Dispensary.pdb
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.cancelToken.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.changePassword.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.date_today.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.duplicateToken.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Gridview.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.newPatient.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.patientHistory.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.patientSlip.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Registration.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.time.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.updatePatientDetails.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.usertab.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Store.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.newMedicine.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.stockTransfer.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.receiveStock.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.medicineList.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.returnStock.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.doctorMain.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.patientMedicalForm.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispensaryMain.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.generateStoreIndent.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.issueMedicines.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispStockReport.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.generateDispIndent.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.viewDispIndent.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispIndentHistory.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.storeIndentHistory.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.viewStoreIndent.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispIndentHistoryStore.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.registrationReports.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispReports.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.storeStockReport.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispMedicineStockReport.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.patientHistoryReports.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.storeExpiredMedicines.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispExpiredMedicines.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.storeExpiredMedicinesReports.resources
+E:\Project Work\Dispensary\Dispensary\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\bin\Debug\Dispensary.dll
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\bin\Debug\Dispensary.pdb
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.cancelToken.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.changePassword.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.date_today.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispensaryMain.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispExpiredMedicines.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispIndentHistory.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispIndentHistoryStore.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispMedicineStockReport.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispReports.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispStockReport.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.doctorMain.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.duplicateToken.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.generateDispIndent.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.generateStoreIndent.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Gridview.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.issueMedicines.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.medicineList.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.newMedicine.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.newPatient.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.patientHistory.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.patientHistoryReports.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.patientMedicalForm.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.patientSlip.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.receiveStock.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Registration.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.registrationReports.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.returnStock.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.stockTransfer.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Store.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.storeExpiredMedicines.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.storeExpiredMedicinesReports.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.storeIndentHistory.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.storeStockReport.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.time.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.updatePatientDetails.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.usertab.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.viewDispIndent.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.viewStoreIndent.resources
+S:\Dispensary Software\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispensaryMain.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispExpiredMedicines.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispIndentHistory.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispIndentHistoryStore.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispMedicineStockReport.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispReports.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispStockReport.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.doctorMain.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.generateDispIndent.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.generateStoreIndent.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.issueMedicines.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.medicineList.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.newMedicine.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.patientHistoryReports.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.patientMedicalForm.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.receiveStock.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.registrationReports.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.returnStock.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.stockTransfer.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Store.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.storeExpiredMedicines.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.storeExpiredMedicinesReports.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.storeIndentHistory.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.storeStockReport.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.viewDispIndent.resources
+D:\Dispensary\Dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.viewStoreIndent.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\bin\Debug\Dispensary.dll
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\bin\Debug\Dispensary.pdb
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.cancelToken.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.changePassword.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.date_today.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispensaryMain.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispExpiredMedicines.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispIndentHistory.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispIndentHistoryStore.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispMedicineStockReport.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispReports.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispStockReport.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.doctorMain.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.duplicateToken.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.generateDispIndent.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.generateStoreIndent.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Gridview.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.issueMedicines.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.medicineList.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.newMedicine.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.newPatient.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.patientHistory.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.patientHistoryReports.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.patientMedicalForm.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.patientSlip.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.receiveStock.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Registration.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.registrationReports.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.returnStock.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.stockTransfer.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Store.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.storeExpiredMedicines.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.storeExpiredMedicinesReports.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.storeIndentHistory.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.storeStockReport.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.time.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.updatePatientDetails.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.usertab.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.viewDispIndent.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.viewStoreIndent.resources
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\HP-06\Desktop\dispensary\dispensary\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.dispensaryExpiredMedicinesReport.resources

@@ -1,0 +1,21 @@
+D:\Dispensary\Dispensary_Library\Dispensary\bin\Debug\Dispensary.dll
+D:\Dispensary\Dispensary_Library\Dispensary\bin\Debug\Dispensary.pdb
+D:\Dispensary\Dispensary_Library\Dispensary\obj\Debug\ResolveAssemblyReference.cache
+D:\Dispensary\Dispensary_Library\Dispensary\obj\Debug\Dispensary.dll
+D:\Dispensary\Dispensary_Library\Dispensary\obj\Debug\Dispensary.pdb
+E:\Project Work\Dispensary\Dispensary_Library\Dispensary\bin\Debug\Dispensary.dll
+E:\Project Work\Dispensary\Dispensary_Library\Dispensary\bin\Debug\Dispensary.pdb
+E:\Project Work\Dispensary\Dispensary_Library\Dispensary\obj\Debug\Dispensary.csprojResolveAssemblyReference.cache
+E:\Project Work\Dispensary\Dispensary_Library\Dispensary\obj\Debug\Dispensary.dll
+E:\Project Work\Dispensary\Dispensary_Library\Dispensary\obj\Debug\Dispensary.pdb
+E:\Project Work\Dispensary\Dispensary_Library\Dispensary\bin\Debug\MySql.Data.dll
+S:\Dispensary Software\Dispensary\Dispensary_Library\Dispensary\bin\Debug\Dispensary.dll
+S:\Dispensary Software\Dispensary\Dispensary_Library\Dispensary\bin\Debug\Dispensary.pdb
+S:\Dispensary Software\Dispensary\Dispensary_Library\Dispensary\obj\Debug\Dispensary.csprojResolveAssemblyReference.cache
+S:\Dispensary Software\Dispensary\Dispensary_Library\Dispensary\obj\Debug\Dispensary.dll
+S:\Dispensary Software\Dispensary\Dispensary_Library\Dispensary\obj\Debug\Dispensary.pdb
+C:\Users\HP-06\Desktop\dispensary\dispensary_library\Dispensary\bin\Debug\Dispensary.dll
+C:\Users\HP-06\Desktop\dispensary\dispensary_library\Dispensary\bin\Debug\Dispensary.pdb
+C:\Users\HP-06\Desktop\dispensary\dispensary_library\Dispensary\obj\Debug\Dispensary.csprojResolveAssemblyReference.cache
+C:\Users\HP-06\Desktop\dispensary\dispensary_library\Dispensary\obj\Debug\Dispensary.dll
+C:\Users\HP-06\Desktop\dispensary\dispensary_library\Dispensary\obj\Debug\Dispensary.pdb
